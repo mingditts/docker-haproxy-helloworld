@@ -9,10 +9,17 @@ Feature tested:
 - Rate limiting
 - Static resource routing
 
+## Prerequisites
+
+- nodejs >= 16.13.0 LTS
+- docker >= 20.10.5
+
 ## Usage
 
 Powershell 1:
 ```
+cd mock-backend-server
+npm install
 node .\mock-backend-server\index.js 8000 backend-server-1
 ```
 
