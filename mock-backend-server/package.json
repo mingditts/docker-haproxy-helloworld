@@ -1,0 +1,14 @@
+{
+  "name": "mock-backend-server",
+  "version": "1.0.0",
+  "description": "Mock backend server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mock-http-server": "^1.4.4"
+  }
+}
