@@ -20,6 +20,7 @@ Powershell 1:
 ```
 cd mock-backend-server
 npm install
+cd ..
 node .\mock-backend-server\index.js 8000 backend-server-1
 ```
 
